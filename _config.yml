@@ -1,0 +1,224 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Piráti Praha 10
+email: praha10@pirati.cz
+description: Stránka místního sdružení Piráti Praha 10
+keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 10
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha10.pirati.cz" # the base hostname & protocol for your site
+
+administrator:
+  email: jan.suchanek@gmail.com
+
+theme: jekyll-theme-pirati
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-environment-variables
+
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+pagination:
+  per_page: 2
+  limit: false
+
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - deploy_rsa_sandbox.enc
+  - deploy_rsa_sandbox.pub
+  - navod.md
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+permalink: /tiskove-zpravy/:title/
+collections:
+  people:
+    output: true
+    root: /clenove/
+    permalink: /clenove/:path/
+
+  program:
+    output: true
+    permalink: /komunalni-volby-2018/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
+      keywords: členové, příznivci, lidé
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar:
+        - garant
+        - program
+      keywords: program, volby, 2018, komunální volby
+
+organization:
+  name: Místní sdružení Pirátské strany Praha 10
+  shortName: Piráti Praha 10
+  email: praha10@pirati.cz
+  contactUid: 
+  phone: +420 
+  address: |
+    Na Moráni 3
+    120 00 Praha 2
+  #residenceImg: miscellaneous.jpg
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects/praha-10
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 110111
+
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/pirati10.cz/" target="_blank">Piráti Praha 10</a>
+
+calendar:
+  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
+  title: Nadcházející události
+  id: 0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=0lmvrce8ph0t1mqa5uk4v98ui4%40group.calendar.google.com&amp;color=%23B1365F&amp;src=0lmvrce8ph0t1mqa5uk4v98ui4%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
+
+facebook:
+  profilePage: https://www.facebook.com/pirati10.cz/
+  loadSDK: true
+  appId: 1526197851008996
+
+twitter:
+  profile: piratipraha10
+  loadSDK: true
+
+instagram:
+  profilePage: https://www.instagram.com/piratipraha10/
+
+#forum:
+#  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/praha10.pirati.cz/
+  branch: master
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
+markdown: kramdown
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-environment-variables
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+permalink: /aktuality/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /komunalni-volby/program/:path/
+
+
+  # Sole purpose is to create candidate lists in separate files.
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - assets/img/posts
+    - assets/snippet
+    - _sass
