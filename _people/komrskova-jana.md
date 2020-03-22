@@ -2,14 +2,14 @@
 uid: komrskova.jana
 name: Jana Komrsková
 titles:
-  before: 
+  before: Ing. 
   after:
 category:
   - clenove
   - kandidat-obec 
 ordpms: 2
 description: 
-profession: 1. Místostarostka Prahy 10
+profession: 1. Místostarostka Prahy 10, Životní prostředí, městské akciové společnosti, sport a volnočasové aktivity
 img: people/komrskova-jana.gif
 mail:
  - jana.komrskova@pirati.cz

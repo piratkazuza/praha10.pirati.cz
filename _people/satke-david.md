@@ -1,8 +1,8 @@
 ---
-uid: koubek.ladislav
-name: Ladislav Koubek
+uid: satke.david
+name:  David Satke
 titles:
-  before: Ing.
+  before: Mgr.
   after:
 category:
   - clenove
@@ -12,7 +12,7 @@ description:
 profession: Zastupitel Prahy 10
 #img: people/koubek-ladislav.jpg
 mail:
- - ladislav.koubek@pirati.cz
+ - david.satke@pirati.cz
 
 profiles:
   facebook: 

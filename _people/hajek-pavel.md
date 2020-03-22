@@ -2,14 +2,14 @@
 uid: hajek.pavel
 name: Pavel Hájek
 titles:
-  before: 
+  before: Ing.
   after:
 category:
   - clenove
   - kandidat-obec 
 ordpms: 2
 description: 
-profession: 
+profession: Zastupitel Hlavního města Prahy, zastupitel Prahy 10
 img: people/hajek-pavel.gif
 mail:
  - pavel.hajek@pirati.cz

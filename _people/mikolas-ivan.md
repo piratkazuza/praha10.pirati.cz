@@ -1,6 +1,6 @@
 ---
-uid: koubek.ladislav
-name: Ladislav Koubek
+uid: mikolas.ivan
+name: Ivan Mikoláš
 titles:
   before: Ing.
   after:
@@ -10,10 +10,10 @@ category:
 ordpms: 2
 description: 
 profession: Zastupitel Prahy 10
-#img: people/koubek-ladislav.jpg
+img: people/komrska-jiri.gif
 mail:
- - ladislav.koubek@pirati.cz
-
+ - ivan.mikolas@pirati.cz
+mob: 603 454 341
 profiles:
   facebook: 
   instagram: 

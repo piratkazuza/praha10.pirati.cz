@@ -1,6 +1,6 @@
 ---
-uid: koubek.ladislav
-name: Ladislav Koubek
+uid: kos.miroslav
+name: Miroslav Kos
 titles:
   before: Ing.
   after:
@@ -10,9 +10,9 @@ category:
 ordpms: 2
 description: 
 profession: Zastupitel Prahy 10
-#img: people/koubek-ladislav.jpg
+img: people/komrska-jiri.gif
 mail:
- - ladislav.koubek@pirati.cz
+ - miroslav.kos@pirati.cz
 
 profiles:
   facebook: 

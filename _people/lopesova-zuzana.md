@@ -2,7 +2,7 @@
 uid: lopesova-zuzana
 name: Zuzana Freitas Lopesová
 titles:
-  before: 
+  before: Mgr. 
   after:
 category:
   - clenove

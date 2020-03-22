@@ -9,7 +9,7 @@ category:
   - kandidat-obec 
 ordpms: 2
 description: 
-profession: 
+profession: Zastupitel Prahy 10
 img: people/komrska-jiri.gif
 mail:
  - jiri.komrska@pirati.cz
