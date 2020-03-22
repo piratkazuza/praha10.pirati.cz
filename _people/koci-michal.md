@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after:
 category:
-  - clenove
+  - priznivci
   - kandidat-obec 
 ordpms: 2
 description: Radní Prahy 10, Sociální a rodinná politika, zdravotnictví, bezpečnost, hazard
