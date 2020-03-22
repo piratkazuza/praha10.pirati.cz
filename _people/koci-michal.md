@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
+  - pms
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
