@@ -13,8 +13,7 @@ profession:
 #img: people/jureckova-nadezda.jpg
 mail:
  - nadezda.jureckova@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

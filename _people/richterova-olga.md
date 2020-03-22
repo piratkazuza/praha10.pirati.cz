@@ -14,8 +14,6 @@ profession:
 img: people/richterova-olga.jpg
 mail:
  - olga.richterova@pirati.cz
-mob:
- - 
 web: http://www.olgarichterova.cz
 profiles:
   facebook: https://www.facebook.com/olga.richterova

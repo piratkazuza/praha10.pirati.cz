@@ -13,8 +13,7 @@ profession:
 #img: people/koubek-ladislav.jpg
 mail:
  - ladislav.koubek@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

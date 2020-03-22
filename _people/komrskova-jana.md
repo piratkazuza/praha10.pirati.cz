@@ -13,8 +13,7 @@ profession:
 img: people/komrskova-jana.gif
 mail:
  - jana.komrskova@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

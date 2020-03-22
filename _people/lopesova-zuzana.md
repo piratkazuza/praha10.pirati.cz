@@ -13,8 +13,7 @@ profession:
 img: people/lopesova-zuzana.gif
 mail:
  - zuzana@freitas.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

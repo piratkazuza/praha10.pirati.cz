@@ -13,8 +13,7 @@ profession:
 img: people/hajek-pavel.gif
 mail:
  - pavel.hajek@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

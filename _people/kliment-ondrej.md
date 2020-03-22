@@ -13,8 +13,7 @@ profession:
 #img: people/kliment-ondrej.jpg
 mail:
  - ondrej.kliment@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

@@ -13,8 +13,7 @@ profession:
 img: people/koci-michal.gif
 mail:
  - michal.koci@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 

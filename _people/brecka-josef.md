@@ -13,8 +13,7 @@ profession:
 #img: people/brecka-josef.jpg
 mail:
  - josef.brecka@pirati.cz
-mob:
- - 
+
 profiles:
   facebook: 
   instagram: 
