@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: 
 profession: 
-img: people/lopesova-zuzana.jpg
+img: people/lopesova-zuzana.gif
 mail:
  - zuzana@freitas.cz
 mob:
