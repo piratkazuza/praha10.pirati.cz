@@ -10,8 +10,8 @@ category:
   - zastupitele  
   - kandidat-obec
 ordpms: 2
-description: Místostarosta Prahy 10, Majetek (byty/nebyty, pozemky), správní firmy, IT
-profession: 
+description: Místostarosta Praha 10
+profession: místostarosta - Majetek (byty/nebyty, pozemky), správní firmy, IT
 img: people/benes-petr.gif
 mail:
  - petr.benes@pirati.cz

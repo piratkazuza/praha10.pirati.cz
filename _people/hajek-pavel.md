@@ -10,8 +10,8 @@ category:
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
-description: Emeritní předseda MS, Zastupitel Hlavního města Prahy, zastupitel Prahy 10
-profession: 
+description: Zastupitel MČ Praha 10
+profession: zastupitel, člen komise školské, komise majetkové a komise územního rozvoje
 img: people/hajek-pavel.gif
 mail:
  - pavel.hajek@pirati.cz
