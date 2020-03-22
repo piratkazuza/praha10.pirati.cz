@@ -1,5 +1,5 @@
 ---
-uid: lopesova-zuzana
+uid: lopesova.zuzana
 name: Zuzana Freitas Lopesová
 titles:
   before: Mgr. 
