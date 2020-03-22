@@ -19,9 +19,6 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /radnice/
-    name: Radnice
-    match: radnice
   - link: /komunalni-volby-2018/
     name: Program
     match: komunalni-volby-2018

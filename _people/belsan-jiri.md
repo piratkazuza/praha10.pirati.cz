@@ -8,8 +8,8 @@ category:
   - pms
   - clenove
   - kandidat-obec
-ordpms: 2
-description: místopředseda MS
+ordpms: 1
+description: Předseda Pirátů na Praze 10
 profession: 
 img: people/belsan-jiri.gif
 mail:
