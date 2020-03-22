@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: 
 profession: Zastupitel Prahy 10
-#img: people/koubek-ladislav.jpg
+#img: people/satke-david.gif
 mail:
  - david.satke@pirati.cz
 

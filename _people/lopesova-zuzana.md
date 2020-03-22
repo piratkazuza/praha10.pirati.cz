@@ -9,7 +9,7 @@ category:
   - kandidat-obec 
 ordpms: 2
 description: 
-profession: 
+profession: Zastupitelka Prahy 10
 img: people/lopesova-zuzana.gif
 mail:
  - zuzana@freitas.cz
