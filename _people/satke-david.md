@@ -8,9 +8,9 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: Zastupitel Prahy 10
-#img: people/satke-david.gif
+description: Zastupitel Prahy 10
+profession: 
+img: people/satke-david.gif
 mail:
  - david.satke@pirati.cz
 

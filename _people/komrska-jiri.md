@@ -8,8 +8,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: Zastupitel Prahy 10
+description: Zastupitel Prahy 10
+profession: 
 img: people/komrska-jiri.gif
 mail:
  - jiri.komrska@pirati.cz

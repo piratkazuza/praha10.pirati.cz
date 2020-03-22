@@ -9,8 +9,8 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 2
-description: 
-profession: Místostarosta Prahy 10, Majetek (byty/nebyty, pozemky), správní firmy, IT
+description: Místostarosta Prahy 10, Majetek (byty/nebyty, pozemky), správní firmy, IT
+profession: 
 img: people/benes-petr.gif
 mail:
  - petr.benes@pirati.cz

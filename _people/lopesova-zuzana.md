@@ -8,8 +8,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: Zastupitelka Prahy 10
+description: Zastupitelka Prahy 10
+profession: 
 img: people/lopesova-zuzana.gif
 mail:
  - zuzana@freitas.cz

@@ -9,8 +9,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: Emeritní předseda MS, Zastupitel Hlavního města Prahy, zastupitel Prahy 10
+description: Emeritní předseda MS, Zastupitel Hlavního města Prahy, zastupitel Prahy 10
+profession: 
 img: people/hajek-pavel.gif
 mail:
  - pavel.hajek@pirati.cz

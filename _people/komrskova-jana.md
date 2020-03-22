@@ -9,8 +9,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: 1. Místostarostka Prahy 10, Životní prostředí, městské akciové společnosti, sport a volnočasové aktivity
+description: 1. Místostarostka Prahy 10, Životní prostředí, městské akciové společnosti, sport a volnočasové aktivity
+profession: 
 img: people/komrskova-jana.gif
 mail:
  - jana.komrskova@pirati.cz

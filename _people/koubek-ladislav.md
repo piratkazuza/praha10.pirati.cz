@@ -8,9 +8,9 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: Zastupitel Prahy 10
-#img: people/koubek-ladislav.jpg
+description: Zastupitel Prahy 10
+profession: 
+img: people/koubek-ladislav.jpg
 mail:
  - ladislav.koubek@pirati.cz
 

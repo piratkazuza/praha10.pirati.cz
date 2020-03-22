@@ -9,8 +9,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: poslankyně Parlamentu ČR
+description: poslankyně Parlamentu ČR
+profession: 
 img: people/richterova-olga.jpg
 mail:
  - olga.richterova@pirati.cz
