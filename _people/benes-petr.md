@@ -5,6 +5,7 @@ titles:
   before: Ing.
   after:
 category:
+  - pms
   - clenove
   - kandidat-obec
 ordpms: 2
