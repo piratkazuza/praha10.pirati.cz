@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: Zastupitel Prahy 10
 profession: 
-img: people/koubek-ladislav.jpg
+#img: people/koubek-ladislav.jpg
 mail:
  - ladislav.koubek@pirati.cz
 
