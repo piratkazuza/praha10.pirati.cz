@@ -5,7 +5,7 @@ titles:
   before: PhDr. 
   after: Ph.D.
 category:
-  - poslanec
+  - poslanci
   - clenove
   - kandidat-obec 
 ordpms: 2
