@@ -9,7 +9,7 @@ category:
   - kandidat-obec 
 ordpms: 2
 description: 
-profession: 
+profession: Radní Prahy 10
 img: people/koci-michal.gif
 mail:
  - michal.koci@pirati.cz

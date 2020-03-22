@@ -9,7 +9,7 @@ category:
   - kandidat-obec
 ordpms: 2
 description: 
-profession: 
+profession: Místostarosta Prahy 10
 img: people/benes-petr.gif
 mail:
  - petr.benes@pirati.cz

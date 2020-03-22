@@ -9,7 +9,7 @@ category:
   - kandidat-obec 
 ordpms: 2
 description: 
-profession: 
+profession: 1. Místostarostka Prahy 10
 img: people/komrskova-jana.gif
 mail:
  - jana.komrskova@pirati.cz
