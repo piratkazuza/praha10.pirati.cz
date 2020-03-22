@@ -7,6 +7,7 @@ titles:
 category:
   - pms
   - clenove
+  - zastupitele  
   - kandidat-obec
 ordpms: 2
 description: Místostarosta Prahy 10, Majetek (byty/nebyty, pozemky), správní firmy, IT

@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - clenove
+  - zastupitele    
   - kandidat-obec 
 ordpms: 2
 description: Zastupitelka Prahy 10

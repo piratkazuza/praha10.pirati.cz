@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - priznivci
+  - zastupitele    
   - kandidat-obec 
 ordpms: 2
 description: Radní Prahy 10, Sociální a rodinná politika, zdravotnictví, bezpečnost, hazard

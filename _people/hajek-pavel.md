@@ -7,6 +7,7 @@ titles:
 category:
   - pms
   - clenove
+  - zastupitele    
   - kandidat-obec 
 ordpms: 2
 description: Emeritní předseda MS, Zastupitel Hlavního města Prahy, zastupitel Prahy 10

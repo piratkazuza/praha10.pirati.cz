@@ -7,6 +7,7 @@ titles:
 category:
   - pms
   - clenove
+  - zastupitele    
   - kandidat-obec 
 ordpms: 2
 description: 1. Místostarostka Prahy 10, Životní prostředí, městské akciové společnosti, sport a volnočasové aktivity
