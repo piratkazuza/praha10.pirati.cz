@@ -15,7 +15,7 @@ groups:
     sort: ordposlanci 
   - name: Naši zastupitelé na Magistrátu hlavního města Prahy
     category: mhmp
-    sort: ordpms
+    sort: mhmp
   - name: Zastupitelé
     category: zastupitele
     sort: ordzas       
