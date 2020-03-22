@@ -99,7 +99,7 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects/praha-10
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-  transparentAccountSpecificSymbol: 110111
+  transparentAccountSpecificSymbol: 110110
 
 contactSummaryItems:
   - type: organizationEmail
