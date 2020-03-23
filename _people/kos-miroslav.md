@@ -11,7 +11,7 @@ category:
 ordpms: 2
 description: Zastupitel Prahy 10
 profession: 
-img: people/komrska-jiri.gif
+img: people/kos-miroslav.gif
 mail:
  - miroslav.kos@pirati.cz
 
