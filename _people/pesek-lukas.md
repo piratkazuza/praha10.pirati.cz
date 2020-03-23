@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: člen MS
 profession: člen MS
-img: people/pesek-lukas.jpg
+#img: people/pesek-lukas.jpg
 mail:
  - lukas.pesek@pirati.cz
 
