@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: Uvolněný člen rady MHMP
 profession: uvolněný člen rady pro oblast školství, sportu, vědy a podpory podnikání ma MHMP
-img: people/simral-vit.gif
+img: people/simral-vit.jpg
 mail:
  - vit.simral@pirati.cz
 profiles:
