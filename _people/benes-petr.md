@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:
-  - pms
+
   - clenove
   - zastupitele  
   - kandidat-obec
