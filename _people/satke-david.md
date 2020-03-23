@@ -10,7 +10,7 @@ category:
   - kandidat-obec 
 ordpms: 2
 description: Zastupitel Prahy 10
-profession: 
+profession: zastupitel, předseda Návrhového výboru a Komise majetkové a nebytových prostor, člen Kontrolního výboru
 img: people/satke-david.gif
 mail:
  - david.satke@pirati.cz

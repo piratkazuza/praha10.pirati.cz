@@ -8,8 +8,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: 
+description: člen MS
+profession: člen MS
 #img: people/kliment-ondrej.jpg
 mail:
  - ondrej.kliment@pirati.cz

@@ -9,9 +9,9 @@ category:
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
-description: Zastupitel Prahy 10
-profession: 
-img: people/komrska-jiri.gif
+description: Úvolněný předseda Výboru pro strategické invstice a veřejné zakázky 
+profession: úvolněný předseda Výboru pro strategické invstice a veřejné zakázky 
+#img: people/mikolas-ivan.gif
 mail:
  - ivan.mikolas@pirati.cz
 mob: 603 454 341

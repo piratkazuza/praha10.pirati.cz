@@ -2,13 +2,13 @@
 uid: kovaceva.elizabet
 name: Elizabet Kovačeva
 titles:
-  before: 
+  before: Mgr.
   after:
 category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
+description: členka MS
 profession: 
 #img: people/kovaceva-elizabet.jpg
 mail:

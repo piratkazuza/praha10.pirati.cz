@@ -8,8 +8,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: 
+description: členka MS
+profession: členka MS
 #img: people/machalkova-marie.jpg
 mail:
  - marie.machalkova@pirati.cz

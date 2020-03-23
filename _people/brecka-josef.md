@@ -2,14 +2,14 @@
 uid: brecka.josef
 name: Josef Břečka
 titles:
-  before: 
+  before: PhDr.
   after:
 category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: 
+description: člen MS
+profession: člen MS
 #img: people/brecka-josef.jpg
 mail:
  - josef.brecka@pirati.cz

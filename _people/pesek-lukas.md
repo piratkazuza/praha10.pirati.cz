@@ -8,8 +8,8 @@ category:
   - clenove
   - kandidat-obec 
 ordpms: 2
-description: 
-profession: 
+description: člen MS
+profession: člen MS
 #img: people/pesek-lukas.jpg
 mail:
  - lukas.pesek@pirati.cz

@@ -2,7 +2,7 @@
 uid: komrska.jiri
 name: Jiří Komrska
 titles:
-  before: 
+  before: Mgr.
   after:
 category:
   - pms
@@ -10,8 +10,8 @@ category:
   - zastupitele    
   - kandidat-obec 
 ordpms: 3
-description: Zastupitel Prahy 10
-profession: 2. místopředseda, zastupitel, předseda Komise bezpečnostní
+description: Zastupitel MČ Praha 10, 2. místopředseda MS
+profession: zastupitel, předseda Komise bezpečnostní. člen Komise památkové a Komise informační, pro otevřenou radnici, IT a Smart Cities (KIT-SC)
 img: people/komrska-jiri.gif
 mail:
  - jiri.komrska@pirati.cz

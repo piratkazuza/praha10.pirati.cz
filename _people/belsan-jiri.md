@@ -9,8 +9,8 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 1
-description: Předseda Pirátů na Praze 10
-profession: 
+description: Předseda MS
+profession: Předseda MS
 img: people/belsan-jiri.gif
 mail:
  - jiri.belsan@pirati.cz
