@@ -25,12 +25,7 @@ calendar:
 
 {{page.description}}
 
-V Pirátské straně působí jako 1. místopředsedkyně. V říjnu 2017 byla ze 4. místa kandidátky za Prahu zvolena poslankyní Parlamentu ČR. Původní profesí je korpusová lingvistka, překladatelka a tlumočnice.
+Olga Richterová (* 21. ledna 1985) je poslankyně Pirátů za Prahu a 1. místopředsedkyně. Rovněž působí jako předsedkyně místního sdružení Praha 10 a členka Republikového výboru. Olga pochází z vesnice jménem Choltice a od roku 2002 žije v Praze. Vystudovala překladatelství a tlumočnictví (AJ-NJ) na Karlově univerzitě v Praze, kde získala titul PhDr. V průběhu studia pobývala v Německu a Anglii, domluví se též rusky a italsky.
 
-Olga Richterová (* 21. ledna 1985) založila watchdog zaostrenona10.cz, roku 2014 byla zvolena zastupitelkou na Praze 10 a v říjnu 2017 byla ze 4. místa kandidátky za Prahu zvolena poslankyní Parlamentu ČR.
-
-Olga pochází z vesnice jménem Choltice a od roku 2002 žije v Praze. Její heslo:
-
-*„Je snadné zapomenout, že během roku či dvou toho mnoho nezměníme. S výhledem na pět, sedm let ale můžeme dosáhnout obrovských věcí.“*
-
+V současnosti pokračuje doktorským studiem korpusové lingvistiky na FF UK, kde i pracovala. V letech 2011–2016 vedla několik jedno- i dvousemestrálních kurzů (Němčina a korpusy, Základy české frazeologie a idiomatiky). Aktuálně je na mateřské dovolené a chystá se obhájit dizertaci. Je opoziční zastupitelkou na Praze 10 za koalici Vlasta, občany informuje prostřednictvím Vlastních novin, které s kolegy vydávají každého půl roku.
 ---

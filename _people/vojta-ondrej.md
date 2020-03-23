@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: člen MS
 profession: čl. Komise prevence kriminality na MHMP
-#img: people/vojta-ondrej.jpg
+img: people/vojta-ondrej.jpg
 mail:
  - ondrej.vojta@pirati.cz
 
