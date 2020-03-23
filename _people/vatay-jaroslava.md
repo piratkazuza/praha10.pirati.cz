@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: členka MS
 profession: členka MS
-#img: people/komrska-jiri.gif
+img: people/vatay-jaroslava.jpg
 mail:
  - jaroslava.vatay@pirati.cz
 profiles:
