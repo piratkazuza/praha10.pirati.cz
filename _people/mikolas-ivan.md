@@ -11,7 +11,7 @@ category:
 ordpms: 2
 description: Úvolněný předseda Výboru pro strategické invstice a veřejné zakázky 
 profession: úvolněný předseda Výboru pro strategické invstice a veřejné zakázky 
-#img: people/mikolas-ivan.gif
+img: people/mikolas-ivan.jpg
 mail:
  - ivan.mikolas@pirati.cz
 mob: 603 454 341
