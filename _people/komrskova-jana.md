@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - clenove
+  - rada
   - zastupitele    
   - kandidat-obec 
 ordpms: 2

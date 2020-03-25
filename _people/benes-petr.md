@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:
-
+  - rada
   - clenove
   - zastupitele  
   - kandidat-obec

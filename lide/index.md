@@ -16,6 +16,9 @@ groups:
   - name: Naši zastupitelé na Magistrátu hlavního města Prahy
     category: mhmp
     sort: mhmp
+  - name: Členové rady MČ Praha 10
+    category: rada
+    sort: ordrada   
   - name: Zastupitelé
     category: zastupitele
     sort: ordzas       

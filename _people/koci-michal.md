@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - pms
+  - rada
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
