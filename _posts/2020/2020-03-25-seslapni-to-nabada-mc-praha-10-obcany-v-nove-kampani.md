@@ -1,10 +1,13 @@
 ---
-layout: post
+date: 2020-01-10
 category: blog
+tags: 
+  - Životní prostředí
+layout: post
+author: 
+authorId: 
 title: '“Sešlápni to!“, nabádá MČ Praha 10 občany v nové kampani'
-date: '2020-01-10 08:18pm'
-author: Piráti Praha 10
-tags: Životní prostředí
+image: articles/2020/2020-02-24-nulova-tolerance-hazardu.jpg
 ---
 
 **Minimalizujte množství odpadu. A toho, který vyprodukujete, se zbavte maximálně efektivně. MČ Praha 10 nabádá své občany k odpovědnému přístupu: zapojila se do kampaně místní svozové společnosti AVE a prezentuje vlastní desatero. Už vloni se** **připojila k iniciativě Ministerstva životního prostředí (MŽP) za snížení spotřeby jednorázového plastového nádobí a obalů****.**
