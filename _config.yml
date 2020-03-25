@@ -8,7 +8,7 @@
 # Site settings
 title: Piráti Praha 10
 email: praha10@pirati.cz
-description: Stránka místního sdružení Piráti Praha 10
+description: Stránka místního sdružení Pirátů Praha 10
 keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 10
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://praha10.pirati.cz" # the base hostname & protocol for your site
@@ -86,7 +86,7 @@ defaults:   # defaults values for collection scope
       keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Místní sdružení Pirátské strany Praha 10
+  name: Místní sdružení Pirátů Praha 10
   shortName: Piráti Praha 10
   email: praha10@pirati.cz
   contactUid: 
