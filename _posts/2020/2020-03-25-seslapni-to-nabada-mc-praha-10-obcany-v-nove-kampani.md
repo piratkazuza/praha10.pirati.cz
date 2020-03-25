@@ -1,7 +1,7 @@
 ---
 layout: post
-category: CLANKY
-title: '“Sešlápni to!“, nabádá MČ Praha 10 občany v nové kampani  '
+category: blog
+title: '“Sešlápni to!“, nabádá MČ Praha 10 občany v nové kampani'
 date: '2020-01-10 08:18pm'
 author: Piráti Praha 10
 tags: Životní prostředí

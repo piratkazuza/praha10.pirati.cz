@@ -1,9 +1,7 @@
 ---
 layout: post
-category: CLANKY
-title: >-
-  MČ Praha 10 podala žalobu proti vydavateli titulu „Naše Praha 10“ pro pomluvu
-  a žádá omluvu
+category: blog
+title: MČ Praha 10 podala žalobu proti vydavateli titulu „Naše Praha 10“ pro pomluvu a žádá omluvu
 date: '2020-02-20 08:12pm'
 author: Piráti Praha 10
 tags: MČ Praha 10
