@@ -7,7 +7,7 @@ layout: post
 author: Piráti Praha 10
 authorId: 
 title: MČ Praha 10 podala žalobu proti vydavateli titulu „Naše Praha 10“ pro pomluvu a žádá omluvu
-image: articles/2020/2020-02-24-nulova-tolerance-hazardu.jpg
+image: articles/2020/mc-praha-10-podala-zalobu-proti-vydavateli-titulu-nase-praha-10-pro-pomluvu-a-zada-omluvu.jpg
 ---
 Vedení městské části Praha 10 podalo žalobu proti vydavateli titulu Naše Praha 10, společnosti Strategic Consulting s.r.o., pro pomluvu a žádá písemnou omluvu podle tiskového zákona.
 
