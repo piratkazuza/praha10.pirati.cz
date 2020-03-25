@@ -1,12 +1,14 @@
 ---
-layout: post
+date: 2020-01-10
 category: blog
+tags: 
+  - Zdravotnictví
+layout: post
+author: 
+authorId: 
 title: V pražských Vršovicích vznikne Pacientský hub, otevřený prostor pro vzdělávání i diskuzi
-date: '2020-01-10 12:00am'
-author: Piráti Praha 10
-tags: Zdravotnictví
+image: articles/2020/2020-02-24-nulova-tolerance-hazardu.jpg
 ---
-
 **Zástupci Ministerstva zdravotnictví ČR a MČ Praha 10 se dohodli na spolupráci při realizaci projektu Pacientský hub. Prostřednictvím seminářů, setkávání se s odborníky, osvěty ve zdravotní oblasti, ale i neformálních akcí bude hub poskytovat zázemí pro rozvoj a vzdělávání občanské společnosti ve zdravotnictví. Městská část Praha 10 tuto myšlenku velmi významně podpořila a v souvislosti s rekonstrukcí své budovy U Vršovického nádraží č. p. 30/30 nabídla Ministerstvu zdravotnictví část těchto prostor. Ministr zdravotnictví Adam Vojtěch a radní pro oblast sociální a zdravotní městské části Praha 10 Michal Kočí stvrdili budoucí spolupráci podpisem memoranda.**
 
 _„Vytvořením místa pro vzdělávání napomůžeme zvýšit informovanost pacientů, jejich právní povědomí a znalost jejich práv a povinností tak, aby mohli hrát aktivní roli v péči o své zdraví. Pacientský hub ve Vršovicích bude živé místo sloužící pacientům a pacientským organizacím k práci i potkávání se. Děkuji zástupcům městské části Praha 10 za poskytnutí části budovy pro tento účel,“_ uvedl Adam Vojtěch.
