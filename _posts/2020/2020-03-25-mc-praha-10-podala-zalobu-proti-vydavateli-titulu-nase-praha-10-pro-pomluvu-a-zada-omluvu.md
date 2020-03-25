@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: >-
   MČ Praha 10 podala žalobu proti vydavateli titulu „Naše Praha 10“ pro pomluvu

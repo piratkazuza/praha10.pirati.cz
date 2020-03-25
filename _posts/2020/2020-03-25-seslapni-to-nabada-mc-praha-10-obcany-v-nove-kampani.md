@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: '“Sešlápni to!“, nabádá MČ Praha 10 občany v nové kampani  '
 date: '2020-01-10 08:18pm'

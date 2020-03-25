@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: >-
   V pražských Vršovicích vznikne Pacientský hub, otevřený prostor pro vzdělávání
