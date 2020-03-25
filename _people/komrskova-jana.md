@@ -16,7 +16,7 @@ profession: 1. místostarostka - Životní prostředí, městské akciové spole
 img: people/komrskova-jana.jpg
 mail:
  - jana.komrskova@pirati.cz
-
+mob: +420 605 205 770
 profiles:
   facebook: 
   instagram: 
