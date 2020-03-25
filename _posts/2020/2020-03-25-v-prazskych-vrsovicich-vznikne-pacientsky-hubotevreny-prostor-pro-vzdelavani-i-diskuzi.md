@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: >-
-  V pražských Vršovicích vznikne Pacientský hub,otevřený prostor pro vzdělávání
+  V pražských Vršovicích vznikne Pacientský hub, otevřený prostor pro vzdělávání
   i diskuzi
 date: '2020-01-10 12:00am'
 author: Piráti Praha 10
