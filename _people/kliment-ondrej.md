@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: člen MS
 profession: člen MS
-#img: people/kliment-ondrej.jpg
+img: people/kliment-ondrej.jpg
 mail:
  - ondrej.kliment@pirati.cz
 

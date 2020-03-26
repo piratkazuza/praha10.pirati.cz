@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: členka MS
 profession: členka MS
-#img: people/jureckova-nadezda.jpg
+img: people/jureckova-nadezda.jpg
 mail:
  - nadezda.jureckova@pirati.cz
 

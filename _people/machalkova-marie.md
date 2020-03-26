@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: členka MS
 profession: členka MS
-#img: people/machalkova-marie.jpg
+img: people/machalkova-marie.jpg
 mail:
  - marie.machalkova@pirati.cz
 
