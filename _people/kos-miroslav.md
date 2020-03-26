@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:
-  - clenove
+  - priznivci
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
