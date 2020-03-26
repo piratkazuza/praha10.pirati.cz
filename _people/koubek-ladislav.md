@@ -11,7 +11,7 @@ category:
 ordpms: 2
 description: Zastupitel Prahy 10
 profession: zastupitel, předseda Komise pro ICT
-#img: people/koubek-ladislav.jpg
+img: people/koubek-ladislav.jpg
 mail:
  - ladislav.koubek@pirati.cz
 
