@@ -10,7 +10,7 @@ category:
   - kandidat-obec 
 ordpms: 2
 description: poslankyně Parlamentu ČR
-profession: 
+profession: poslankyně Parlamentu ČR
 img: people/richterova-olga.jpg
 mail:
  - olga.richterova@pirati.cz
