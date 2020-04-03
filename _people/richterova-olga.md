@@ -20,7 +20,8 @@ profiles:
   instagram: 
   twitter: https://twitter.com/olgarichterova
   blog: http://blog.aktualne.cz/blogy/olga-richterova.php
-calendar: https://calendar.google.com/calendar/embed?src=gn1i05sfapugq65d6l5jcav8b4%40group.calendar.google.com&ctz=Europe%2FPrague
+calendar: gn1i05sfapugq65d6l5jcav8b4@group.calendar.google.com
+
 ---
 
 {{page.description}}
