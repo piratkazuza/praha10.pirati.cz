@@ -20,11 +20,8 @@ main:
     name: Lidé
     match: lide
   - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby  
-  - link: /komunalni-volby-2018/
     name: Program
-    match: komunalni-volby-2018
+    match: komunalni-volby
     submenu:   
       - link: /komunalni-volby-2018/
         name: Program
