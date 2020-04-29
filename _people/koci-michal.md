@@ -11,8 +11,8 @@ category:
   - kandidat-obec 
 ordpms: 2
 ordrada: 3
-description: Uvolněný člen Rady MČ&nbsp;Praha&nbsp;10, 1.&nbsp;místopředseda&nbsp;MS
-profession: uvolněný člen Rady -&nbsp;Sociální a rodinná politika, zdravotnictví, bezpečnost, hazard.
+description: Radní MČ&nbsp;Praha&nbsp;10, 1.&nbsp;místopředseda&nbsp;MS
+profession: Radní MČ&nbsp;Praha&nbsp;10 -&nbsp;Sociální a rodinná politika, zdravotnictví, bezpečnost, hazard.
 img: people/koci-michal.gif
 mail:
  - michal.koci@pirati.cz
