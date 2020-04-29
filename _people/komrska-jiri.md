@@ -10,7 +10,7 @@ category:
   - zastupitele    
   - kandidat-obec 
 ordpms: 3
-description: Zastupitel MČ Praha 10, 2. místopředseda MS
+description: Zastupitel MČ&nbsp;Praha&nbsp;10, 2.&nbsp;místopředseda MS
 profession: zastupitel, předseda Komise bezpečnostní. člen Komise památkové a Komise informační, pro otevřenou radnici, IT a Smart Cities (KIT-SC)
 img: people/komrska-jiri.gif
 mail:
