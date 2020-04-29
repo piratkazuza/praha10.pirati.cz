@@ -4,6 +4,9 @@ category: blog
 tags: 
   - Zelený strom
   - Ekologie
+  - MČ Praha 10
+  - Veřejné prostory
+  - Žitovní prostředí
 layout: post
 author: 
 authorId: 
