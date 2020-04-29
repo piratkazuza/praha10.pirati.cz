@@ -37,10 +37,10 @@ bottom:
   - class: small-12 medium-4
     title: Volby 2018
     links:
-      - link: /komunalni-volby-2018/povolebni-strategie/
-        name: Povolební strategie
-      - link: /komunalni-volby-2018/
-        name: Kandidátka     
+      - link: /komunalni-volby/
+        name: Program
+      - link: /lide/
+        name: Lidé     
   - class: small-12 medium-4
     title: Otevřenost
     links:
