@@ -24,6 +24,4 @@ calendar:
 
 {{page.description}}
 
-
-
 ---
