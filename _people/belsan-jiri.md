@@ -15,7 +15,7 @@ img: people/belsan-jiri.gif
 mail:
  - jiri.belsan@pirati.cz
 mob:
- - 777 049 608
+ - 778 702 243
 profiles:
   facebook: 
   instagram: 
