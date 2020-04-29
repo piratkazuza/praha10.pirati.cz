@@ -22,13 +22,6 @@ main:
   - link: /komunalni-volby/
     name: Program
     match: komunalni-volby
-    submenu:   
-      - link: /komunalni-volby-2018/
-        name: Program
-        match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/povolebni-strategie/
-        name: Povolební strategie
-        match: povolebni-strategie
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
