@@ -1,4 +1,20 @@
-
+---
+date: 2020-05-18
+category: blog
+tags: 
+  - pozemky
+  - trestní oznámení
+  - veřejné prostory
+  - Zoufalík
+  - PMC Vršovice a.s.
+  - Hrdlička
+  - Equita
+layout: post
+author: 
+authorId: 
+title: Policie potvrdila trestní odpovědnost bývalého starosty Prahy 10
+image: articles/2020/2020-05-18-bajkalska.png
+---
 Problematickému nákupu pozemku pod MŠ Bajkalská se věnuji již několik let. Ještě jako opoziční zastupitelka jsem podala trestní oznámení na osoby, které v tomto případu figurovaly.
 
 O co tehdy šlo? V roce 2012, po bouřlivé diskusi v Zastupitelstvu, byl schválen nákup pozemku za částku 24 407 000 Kč. Posudek na cenu vypracovala společnost Equita (tehdy stálý dodavatel znaleckých posudků pro MČ Praha 10). O tři roky dříve, byl přitom tento pozemek oceněn na částku 6 557 300 Kč**.** Tehdejší Komise pro územní rozvoj, které předsedal radní a pozdější vlivný kmotr pražského podsvětí, Tomáš Hrdlička, nákup za zmíněných 6,5 milionu odmítla. Téměř obratem však parcelu koupila od restitučního vlastníka společnost PMC Vršovice a.s., patřící právě Tomáši Hrdličkovi. Za necelých sedm miliónů. Tato společnost jej následně, o necelé tři roky později, prodává MČ Praha 10 za čtyřnásobnou (sic!) cenu.
