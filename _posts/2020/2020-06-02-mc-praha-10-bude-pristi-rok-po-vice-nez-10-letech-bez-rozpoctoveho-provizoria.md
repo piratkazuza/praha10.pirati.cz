@@ -4,7 +4,7 @@ category: CLANKY
 title: MČ Praha 10 bude příští rok po více než 10 letech bez rozpočtového provizoria!
 date: '2019-11-17 12:00am'
 author: Mediální team
-image: /assets/img/posts/prijmyvydaje2020_iii.png
+image: /assets/img/posts/seslapnito.png
 tags: |-
   Rozpočet na rok 2020
   Úsporný rozpočet
