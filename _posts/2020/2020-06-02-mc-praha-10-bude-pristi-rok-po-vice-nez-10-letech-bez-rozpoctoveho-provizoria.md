@@ -2,12 +2,10 @@
 layout: blog
 category: CLANKY
 title: MČ Praha 10 bude příští rok po více než 10 letech bez rozpočtového provizoria!
-date: '2019-11-17 12:00am'
+date: '2019-12-17 10:24am'
 author: Mediální team
-image: /assets/img/posts/seslapnito.png
-tags: |-
-  Rozpočet na rok 2020
-  Úsporný rozpočet
+image: /assets/img/posts/prijmyvydaje2020_iii.png
+tags: Rozpočet na rok 2020
 ---
 
 **MČ Praha 10 má rozpočet na rok 2020. Spolu s plánem zdaňované činnosti ho na svém včerejším zasedání schválilo Zastupitelstvo městské části. Radnice sníží běžné výdaje, třetinu prostředků bude investovat. Díky brzké přípravě materiálu nebude muset Desítka hospodařit několik týdnů či měsíců v rozpočtovém provizoriu, tak jako v uplynulých deseti letech.**
