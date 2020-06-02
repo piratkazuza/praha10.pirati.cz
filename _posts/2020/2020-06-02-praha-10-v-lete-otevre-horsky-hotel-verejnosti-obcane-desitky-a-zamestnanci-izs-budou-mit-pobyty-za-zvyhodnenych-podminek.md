@@ -4,9 +4,9 @@ category: CLANKY
 title: >-
   Praha 10 v létě otevře Horský hotel veřejnosti. Občané Desítky a zaměstnanci
   IZS budou mít pobyty za zvýhodněných podmínek
-date: '2020-05-14 12:00am'
+date: '2019-12-17 12:00am'
 author: Mediální team
-image: /assets/img/posts/hh00-1160x700.jpg
+image: posts/hh00-1160x700.jpg
 tags: |-
   Horský hotel
   Černá hora
