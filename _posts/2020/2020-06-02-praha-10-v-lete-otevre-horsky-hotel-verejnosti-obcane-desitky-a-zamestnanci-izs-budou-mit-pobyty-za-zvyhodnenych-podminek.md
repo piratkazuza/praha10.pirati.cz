@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: >-
   Praha 10 v létě otevře Horský hotel veřejnosti. Občané Desítky a zaměstnanci
   IZS budou mít pobyty za zvýhodněných podmínek
