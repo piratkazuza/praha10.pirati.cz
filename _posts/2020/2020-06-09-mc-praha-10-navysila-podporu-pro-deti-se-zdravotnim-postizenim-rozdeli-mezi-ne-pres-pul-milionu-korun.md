@@ -5,7 +5,7 @@ title: >-
   MČ Praha 10 navýšila podporu pro děti se zdravotním postižením, rozdělí mezi ně přes půl milionu korun
 date: '2020-06-09'
 author: Mediální team
-image: posts/2020/2020-06-09-mc-praha-10-navysila-podporu-pro-deti-se-zdravotnim-postizenim-rozdeli-mezi-ne-pres-pul-milionu-korun.jpg
+image: articles/2020/2020-06-09-mc-praha-10-navysila-podporu-pro-deti-se-zdravotnim-postizenim-rozdeli-mezi-ne-pres-pul-milionu-korun.jpg
 tags: |-
   Horský hotel
   Černá hora
