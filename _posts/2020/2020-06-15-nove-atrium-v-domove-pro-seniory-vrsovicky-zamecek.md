@@ -5,7 +5,7 @@ title: >-
   Nové atrium v Domově pro seniory Vršovický zámeček
 date: '2020-06-09'
 author: Mediální team
-image: articles/2020/2020-06-09-mc-praha-10-navysila-podporu-pro-deti-se-zdravotnim-postizenim-rozdeli-mezi-ne-pres-pul-milionu-korun.jpg
+image: articles/2020/2020-06-15-nove-atrium-v-domove-pro-seniory-vrsovicky-zamecek.jpg
 tags:
   - Vršovický zámeček
   - domov pro seniory
