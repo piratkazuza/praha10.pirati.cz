@@ -4,7 +4,7 @@ category: blog
 title: MČ Praha 10 bude příští rok po více než 10 letech bez rozpočtového provizoria!
 date: '2019-12-17 10:24am'
 author: Mediální team
-image: /assets/img/posts/prijmyvydaje2020_iii.png
+image: posts/prijmyvydaje2020_iii.png
 tags: Rozpočet na rok 2020
 ---
 
