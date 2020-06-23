@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: >-
   Nové atrium v Domově pro seniory Vršovický zámeček
 date: '2020-06-09'
