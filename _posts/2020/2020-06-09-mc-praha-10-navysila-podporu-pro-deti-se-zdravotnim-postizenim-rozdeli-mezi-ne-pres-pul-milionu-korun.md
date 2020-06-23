@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: >-
   MČ Praha 10 navýšila podporu pro děti se zdravotním postižením, rozdělí mezi ně přes půl milionu korun
 date: '2020-06-09'
