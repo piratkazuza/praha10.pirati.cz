@@ -5,7 +5,7 @@ title: >-
   MČ Praha 10 upravuje pravidla pro pronájem svých bytů, fungující systém otevírá více lidem
 date: '2020-06-09'
 author: Mediální team
-image: articles/2020/2020-06-23-obecni-bydleni-pronajem.jpg
+image: articles/2020/2020-06-23-obecni-bydleni-pronajem.png
 tags:
   - Bydlení
   - Obecní majetek
