@@ -10,6 +10,7 @@ tags:
   - Vršovický zámeček
   - domov pro seniory
 ---
+
 Nápad upravit atrium Domova pro seniory Vršovický zámeček, vznikl ke konci roku 2016, nicméně k jeho realizaci nedošlo. Investiční záměr schválila až současná rada městské části v loňském roce. Naším záměrem bylo vytvořit příjemné prostředí se zákoutími, vodním prvkem, chodníčky, pergolou s posezením a brankou, kterou bychom seniorům a jejich rodinám zkrátili cestu do přilehlých Heroldových sadů.
 
 Od vzniku myšlenky jsme postupně začali zajišťovat potřebná povolení k realizaci úprav. Jednou z prvních vlaštovek byla příprava vizualizace. Po dlouhém připomínkování a zvažování, zda je vůbec reálné takto rozsáhlý projekt realizovat, se konečně začalo pracovat. Nejprve byl zpracován projekt, byly získány schvalovací dokumenty ze strany MČ Praha 10, proběhla jednání s architekty a projektanty přestavby atria Vršovického zámečku. Po získání veškerých souhlasů a „razítek“ Rada MČ Prahy 10 záměr schválila koncem roku 2019. Samotné stavební práce začaly v době nouzového stavu, pracovníci stavební firmy ručně odstranili velkého množství zeminy, upravil se povrch, položila dlažba a usadil mobiliář. Postavilo se dřevěné zastřešené zákoutí k posezení. Celkové náklady na realizaci projektu vyšly na necelých 2,4 mil. Kč.
