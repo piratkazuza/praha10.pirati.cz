@@ -22,6 +22,9 @@ main:
   - link: /komunalni-volby/
     name: Program
     match: komunalni-volby
+  - link: /piratske-listy/
+    name: Pirátské listy
+    match: piratske-listy
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
