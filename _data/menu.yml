@@ -22,9 +22,9 @@ main:
   - link: /komunalni-volby/
     name: Program
     match: komunalni-volby
-  - link: /piratske-listy/
+  - link: /piratske-listy-2020-leto/
     name: Pirátské listy
-    match: piratske-listy
+    match: piratske-listy/2020-leto
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
