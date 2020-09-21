@@ -4,7 +4,7 @@ category: blog
 title: Praha 10 již dva roky na pirátské vlně
 date: '2020-09-21'
 author: Mediální team
-image: articles/2020/2020-09-21-ohlednuti.jpg
+image: articles/2020/2020-09-21-ohlednuti.png
 tags:
   - Ohlédnutí
 ---
