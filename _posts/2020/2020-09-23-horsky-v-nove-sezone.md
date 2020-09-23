@@ -4,7 +4,7 @@ category: blog
 title: Horský hotel v nové sezóně
 date: '2020-09-23'
 author: Michal Kočí
-image: articles/2020/2020-09-23-Horsky-v-nove-sezone.png
+image: articles/2020/2020-09-23-horsky-v-nove-sezone.png
 tags:
   - Horský hotel
   - Obecní majetek
