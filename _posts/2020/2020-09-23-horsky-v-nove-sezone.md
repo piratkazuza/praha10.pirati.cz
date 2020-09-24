@@ -18,3 +18,24 @@ Na školách aktuálně rezonuje téma škol v přírodě a zimních lyžařský
 Tímto způsobem lze v případě nutnosti minimalizovat vzájemný kontakt žáků. Celý hotel je rovněž pravidelně dezinfikován virucidními prostředky a germicidní lampou. 
 
 Během letní přestávky provozovatel upravil i zázemí personálu tak, aby se oddělila místa, kde se personál stravuje, od prostor, pro děti. Tím došlo ke zvětšení kapacity jídelního prostoru a oddělení dříve propojených prostorů pro stravování. Byly přidány 2 nové koupelny a 2 samostatná sociální zařízení. Nejedná se však o nemocnici, ale především o místo k rekreaci našich žáků. Nezapomnělo se tedy ani na doplnění stávajícího sportovního vybavení. Mnozí z vás jistě četli Boccacciův Decameron. Jeho hrdinové v době vypuknutí morové epidemie opouštějí Florencii a míří na své sídlo daleko od města. S ohledem na vývoj situace lze náš Horský hotel považovat za obdobně bezpečnou oázu. Rozhodnutí, zda tuto možnost svým žákům dopřejí, je na ředitelích a ředitelkách našich škol ale především na rodičích. 
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://praha10-pirati-cz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
