@@ -12,6 +12,7 @@ description: Stránka místního sdružení Pirátů Praha 10
 keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 10
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://praha10.pirati.cz" # the base hostname & protocol for your site
+disqus: praha10.pirati.cz
 
 administrator:
   email: jan.suchanek@gmail.com
