@@ -10,6 +10,7 @@ tags:
   - Obecní majetek
   - Covid
   - Koronavirus
+comments: true
 ---
 
 Na školách aktuálně rezonuje téma škol v přírodě a zimních lyžařských kurzů. Během posledního půl roku jsme na Horském hotelu v Janských lázních přijali řadu opatření, která umožňují nejen zcela bezpečné pobyty našich dětí za stávajících epidemiologických podmínek, ale i výrazně vyšší komfort celého zařízení. Na základě konzultací s hygienou je vstup do budovy trvale monitorován infrakamerou. Je zde použita shodná technologie, jako u vstupu do ÚMČ P10 během epidemiologických opatření letos na jaře. Pro podzimní pobyty jsou školám k dispozici i prostory přilehlé vily. To umožňuje zřídit až pět zcela oddělených zón se samostatnými vchody. 
