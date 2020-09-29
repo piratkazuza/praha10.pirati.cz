@@ -14,7 +14,7 @@ comments: true
 
 Tématem zastupitelstva MČ Praha 10 konaného dne 30.9.2020 bude dlouho připravovaná rekonstrukce naší radniční budovy Vlasta. Vzhledem k tomu, že ve veřejném prostoru cirkuluje mnoho nepřesných a někdy i záměrně zkreslených informací, rádi bychom se k nim vyjádřili a uvedli na pravou míru.
 
-<strong>Kolik projekt bude stát a jak bude placen?</strong>
+**Kolik projekt bude stát a jak bude placen?**
 Očekávané náklady jsou 915 milionů korun, 219 milionů by měly pokrýt dotace z Operačního programu životní prostředí na snížení energetické náročnosti objektu. Městská část zároveň požádala hlavní město Praha o finanční výpomoc ve výši 500 milionů, žádost už schválilo Zastupitelstvo hl. m. Prahy. Financování tedy bude vícezdrojové. Městská část tuto bezúročnou půjčku rozložila do 25 let, takže roční splátku 20 milionů městská část zvládne splácet zcela bez problémů. Po rekonstrukci bude možné nadále pronajímat volné prostory budovy dalším subjektům, což znamená dodatečný příjem rozpočtu. Přesný rozpočet bude známý po dokončení dokumentace, reálná cena pak po vysoutěžení zhotovitele rekonstrukce (ideálně v 2. polovině roku 2021).
 
 <strong>Jak je to s peticí proti miliardové radnici?</strong>
