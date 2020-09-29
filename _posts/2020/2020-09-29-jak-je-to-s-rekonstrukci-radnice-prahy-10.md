@@ -4,7 +4,7 @@ category: blog
 title: Jak je to s rekonstrukcí radnice Prahy 10?
 date: '2020-09-29'
 author: Michal Kočí
-image: articles/2020/2020-09-29-jak-nova-radnice2.jpg
+image: articles/2020/2020-09-29-jak-nova-radnice3.jpg
 tags:
   - radnice
   - rekonstrukce
