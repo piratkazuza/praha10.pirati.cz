@@ -25,6 +25,9 @@ main:
   - link: /piratske-listy/2020-leto/
     name: Pirátské listy
     match: piratske-listy/2020-leto
+    link: /Hoaxy o Pirátech/
+    name: Hoaxy o Pirátech
+    match: hoaxy-pirati
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
