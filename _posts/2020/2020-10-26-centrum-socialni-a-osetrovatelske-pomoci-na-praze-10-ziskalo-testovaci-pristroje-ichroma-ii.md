@@ -4,7 +4,7 @@ category: blog
 title: Centrum sociální a ošetřovatelské pomoci na Praze 10 získalo testovací přístroje Ichroma I
 date: '2020-10-26'
 author: Michal Kočí
-image: articles/2020/2020-10-26-centrum-socialni-a-osetrovatelske-pomoci-na-praze-10-ziskalo-testovaci-pristroje-ichroma-ii/.jpg
+image: articles/2020/2020-10-26-centrum-socialni-a-osetrovatelske-pomoci-na-praze-10-ziskalo-testovaci-pristroje-ichroma-ii.jpg
 tags:
   - sociální bydlení
   - centrum sociální pomoci
