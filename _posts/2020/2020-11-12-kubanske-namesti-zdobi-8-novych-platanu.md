@@ -6,10 +6,8 @@ date: '2020-11-12'
 author: Michal Kočí
 image: articles/2020/2020-11-12-kubanske-namesti-zdobi-8-novych-platanu.jpg
 tags:
-  - sociální bydlení
-  - centrum sociální pomoci
-  - terenní služby
-  
+  - sázíme stromy
+  - Na Prahu Změny  
 comments: true
 ---
 
