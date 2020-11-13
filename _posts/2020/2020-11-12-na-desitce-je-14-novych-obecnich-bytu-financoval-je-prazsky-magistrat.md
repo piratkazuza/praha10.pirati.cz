@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Kubánské náměstí zdobí 8 nových platanů
+title: Na Desítce je 14 nových obecních bytů, financoval je pražský Magistrát
 date: '2020-11-12'
 author: Petr Beneš
 image: articles/2020/2020-11-12-na-desitce-je-14-novych-obecnich-bytu-financoval-je-prazsky-magistrat.jpg
